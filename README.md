@@ -9,15 +9,3 @@ Premere un tasto sulla tastiera per suonare la musica（puo cambiare)。
 I have just learned c++ , and the code is bad written. If you have any questions, please modify it yourself ，thanks(because I don't understand to).
 io ho appena studiato c++ ,e sono scrito male.se hai i problemi, ti prego modifacalo da tu stesso,grazie mille.(perche non lo so anch'io)
 
-
-　　　　 　　 ＿＿
-　　　 　　／＞　　フ
-　　　 　　| 　_　 _ l
-　 　　 　／` ミ＿xノ
-　　 　 /　　　 　 |
-　　　 /　 ヽ　　 ﾉ
-　 　 │　　|　|　|
-　／￣|　　 |　|　|
-　| (￣ヽ＿ヽ)__)
-　二つ
-
